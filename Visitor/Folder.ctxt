@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Folder
+comment1.params=name
+comment1.target=Folder(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=component
+comment4.target=void\ add(FileSystem)
+comment5.params=component
+comment5.target=void\ remove(FileSystem)
+comment6.params=
+comment6.target=java.util.List\ getChildren()
+comment7.params=indent
+comment7.target=void\ display(java.lang.String)
+comment8.params=visitor
+comment8.target=void\ accept(Visitor)
+numComments=9

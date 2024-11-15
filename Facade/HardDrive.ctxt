@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=HardDrive
+comment1.params=lba\ size
+comment1.target=byte[]\ read(long,\ int)
+numComments=2

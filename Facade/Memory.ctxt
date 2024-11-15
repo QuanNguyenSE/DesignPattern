@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Memory
+comment1.params=position\ data
+comment1.target=void\ load(long,\ byte[])
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JsonAdapter
+comment1.params=adaptee
+comment1.target=JsonAdapter(XMLAdaptee)
+comment2.params=
+comment2.target=java.lang.String\ GetRequest()
+numComments=3

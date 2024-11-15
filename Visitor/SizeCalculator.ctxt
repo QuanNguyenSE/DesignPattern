@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SizeCalculator
+comment1.params=file
+comment1.target=void\ visit(File)
+comment2.params=folder
+comment2.target=void\ visit(Folder)
+comment3.params=
+comment3.target=int\ getTotalSize()
+numComments=4
