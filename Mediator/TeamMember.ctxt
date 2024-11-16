@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TeamMember
+comment1.params=name\ mediator
+comment1.target=TeamMember(java.lang.String,\ TeamMediator)
+comment2.params=message
+comment2.target=void\ sendMessage(java.lang.String)
+comment3.params=message
+comment3.target=void\ receiveMessage(java.lang.String)
+numComments=4

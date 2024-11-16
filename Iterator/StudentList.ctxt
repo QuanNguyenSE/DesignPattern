@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StudentList
+comment1.params=
+comment1.target=StudentList()
+comment2.params=student
+comment2.target=void\ addStudent(java.lang.String)
+comment3.params=index
+comment3.target=java.lang.String\ get(int)
+comment4.params=
+comment4.target=int\ size()
+comment5.params=
+comment5.target=Iterator\ createIterator()
+numComments=6
